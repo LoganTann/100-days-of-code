@@ -1,0 +1,11 @@
+name: Il est temps de bosser !
+on:
+  schedule:
+    - cron:  '0 14 * * *'
+
+jobs:
+  say_hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "Quick reminder : il est temps de bosser !" 
