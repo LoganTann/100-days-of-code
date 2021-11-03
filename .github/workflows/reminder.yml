@@ -13,8 +13,8 @@ jobs:
               url: ${{ secrets.WEBHOOK_URL }}
               data: >
                 {"content": ". \\n
-                ```diff \\n
+                diff \\n
                 +  ~ ~ ~  Bonjour !  ~ ~ ~  +
-                ```. \\n
-                N'oublie pas ton 100 days of code challenge ! @ShinProg#2885
+                . \\n
+                Noublie pas ton 100 days of code challenge ! @ShinProg#2885
                 \"}
