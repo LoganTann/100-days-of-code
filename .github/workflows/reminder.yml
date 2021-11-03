@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '0 14 * * *'
-  push:
-    branches: master
 
 jobs:
     run:
@@ -13,4 +11,4 @@ jobs:
          - uses: muinmomin/webhook-action@v1.0.0
            with:
               url: ${{ secrets.WEBHOOK_URL }}
-              data: "{\"content\": \"@ShinProg#2885 N'oublie pas ton 100 days of code challenge !\"}"
+              data: "{\"content\": \"<@!272777471311740929> N'oublie pas ton 100 days of code challenge !\"}"
