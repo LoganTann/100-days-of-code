@@ -1,11 +1,16 @@
-name: Il est temps de bosser !
+
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 14 * * *'
+  push:
+    branches: master
 
 jobs:
-  say_hello:
-    runs-on: ubuntu-latest
-    steps:
-      - run: |
-          echo "Quick reminder : il est temps de bosser !" 
+    run:
+        runs-on: ubuntu-latest
+        steps:
+         - uses: muinmomin/webhook-action@v1.0.0
+           with:
+              url: ${{ secrets.WEBHOOK_URL }}
+              data: "{\"content\": \"@ShinProg#2885 N'oublie pas ton 100 days of code challenge !\"}"
