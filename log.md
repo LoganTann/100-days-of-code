@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 2: November 04, 2021
+
+<img src="https://user-images.githubusercontent.com/28659185/140426504-40a3a5cd-0672-4b98-8199-85947fe08f18.png" alt="discord reminder using github actions" align="right" width="300" />
+
+**Today's Progress**: 
+
+* Made some progress with Notion, and [a question I had with routing](https://forum.codeigniter.com/thread-79952.html)
+* Set up my coding workspace and edited the docs about cloning the repo with symlinks : [0d40643](https://github.com/Kagescan/kagescan-cms/commit/0d406434804b2b105f6007d76c09dac05aae9fa3)
+* Found a way to store my ordered dataset in MYSQL in discord [private discord thread link](https://discord.com/channels/306353736249245697/453984845123551235/905931581682753596)
+
+
+**Thoughts:** : I had a dilemna about how to store ordered data in PHP : Using Json or SQL ? I finally managed to solve this using a linked list pattern and backend processing (instead of DBMS sorting).
+
 ### Day 1: November 03, 2021
 **Today's Progress**: 
 * Add a github action that sends a discord ping, to remind me to work on it + keep the discord thread opened. 
