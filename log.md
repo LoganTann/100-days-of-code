@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 2: November 04, 2021
+### Day 3: Friday November 05, 2021
+
+<table><tr><td>
+  
+**Today's Progress**: 
+* Created a [Kanban board in Notion](https://www.notion.so/kagescan/bdd40eae13534f03aac7535138abdf4f?v=b8e3c9c43a9e4a89b7a82fdffddd9671) and made some progress to organize the team
+* Implemented the sql creation table script for the manga section : [6eb9576 and a68930a](https://github.com/Kagescan/kagescan-cms/compare/0d40643..a68930a)
+  
+**Thoughts:** Kanban boards are very nice to set-up tasks and deadlines.  
+  Even though Notion isn't the best app for doing this sort of thing, the integration with pages is pretty cool, we can link a task to a doc spec for example.
+
+</td><td  align="center">
+<img src="https://user-images.githubusercontent.com/28659185/140577733-856d4fb7-8e57-4d9f-9cf4-bc96b8101741.png" alt="Notion kanban board"/>
+<em>Image : Our kanban board in Notion</em>
+</td></tr>
+</table>
+
+### Day 2: Thursday November 04, 2021
 
 <img src="https://user-images.githubusercontent.com/28659185/140426504-40a3a5cd-0672-4b98-8199-85947fe08f18.png" alt="discord reminder using github actions" align="right" width="300" />
 
@@ -13,7 +30,7 @@
 
 **Thoughts:** : I had a dilemna about how to store ordered data in PHP : Using Json or SQL ? I finally managed to solve this using a linked list pattern and backend processing (instead of DBMS sorting).
 
-### Day 1: November 03, 2021
+### Day 1: Wednesday November 03, 2021
 **Today's Progress**: 
 * Add a github action that sends a discord ping, to remind me to work on it + keep the discord thread opened. 
 * Finish writing the front-end specs for the site sections, user POV
@@ -27,7 +44,7 @@
 **Link to work:** [Notion workspace](https://kagescan.notion.site/f8394b69073e48e79339548e0174a41b?v=f250e6644bc54701bd57256c4674e148) and [redminder.yml github action file](https://github.com/LoganTann/100-days-of-code/blob/master/.github/workflows/reminder.yml)
 
 
-### Day 0: November 02, 2021
+### Day 0: Tuesday November 02, 2021
 
 **Today's Progress**: Today I'm starting the 100 days of code challenge for [Kagescan-cms](https://github.com/kagescan/kagescan-cms).  
 I created a Notion workspace and started writing some specifications for the scan part of the CMS. This is a productivity tool I discovered today.
