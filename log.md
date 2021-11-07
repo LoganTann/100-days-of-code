@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+
+### Day 4-5 (between 23:30 to 03:00) : Saturday 06 and Sunday 07, November 2021
+
+<table><tr><td>
+  
+**Today's Progress**: 
+- Created a controller and a custom model for the manga section of the CMS [17f6348](https://github.com/Kagescan/kagescan-cms/commit/17f6348689c694bbcafa8e799b409f4f7fbe3027)
+- Created a function that generates or reset required tables. [0e37e24 Line 21](https://github.com/Kagescan/kagescan-cms/commit/0e37e240f8981c81cc788d5f0f4b62e7824e55df#diff-5e0bdc442f7ff4e91c3d3d3493cbcbb400f8ece67164e52f2dd6b67980b736d0R27)
+- Created SQL snippets to add, check and remove elements of a linked list [0e37e24 Line 81](https://github.com/Kagescan/kagescan-cms/commit/0e37e240f8981c81cc788d5f0f4b62e7824e55df#diff-5e0bdc442f7ff4e91c3d3d3493cbcbb400f8ece67164e52f2dd6b67980b736d0R81)
+
+**Thoughts:** over 160 lines treated today 😊 Nice progress !
+
+</td><td  align="center">
+<img src="https://user-images.githubusercontent.com/28659185/140630026-347e5f0d-d780-4a32-8b84-245bd186a920.png" alt="Notion kanban board"/>
+<em>Image : a portion of `scanModel` class. </em>
+</td></tr>
+</table>
+
 ### Day 3: Friday November 05, 2021
 
 <table><tr><td>
