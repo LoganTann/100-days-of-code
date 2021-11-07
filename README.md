@@ -2,7 +2,6 @@
 
 I will work in [Kagescan-cms](https://github.com/kagescan/kagescan-cms)
 
-[Log - click here to see my progress](log.md)
-
-
 this repo is a fork from this *100 days of code* template : https://github.com/kallaway/100-days-of-code
+
+## [Log - click here to see my progress](log.md)
