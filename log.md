@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6-7 : Tuesday 07, November 2021
+  
+**Today's Progress**: 
+- Upgraded the framework from v4.1.3 to 4.1.5 [e47428c](https://github.com/Kagescan/kagescan-cms/commit/e47428c61dba42c36e3d13dec45670d0042ece15)
+- Added a support for PhpUnit + wrote one test case (that don't works yet, but runs well). [3b961bc](https://github.com/Kagescan/kagescan-cms/commit/3b961bc8b68991150889a65c470c4209f0e34c4c)
+- Made a twitter to discord webhook using IFTTT.
+
+**Thoughts:** Missed Monday due to homeworks, but I caught up my delay by working up to 3 hours today
 
 ### Day 4-5 (between 23:30 to 03:00) : Saturday 06 and Sunday 07, November 2021
 
