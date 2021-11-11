@@ -1,6 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 6-7 : Tuesday 07, November 2021
+### Day 9 : Thursday 11, november 2021
+
+**Today's Progress**: 
+- Fixed for real the bug from yesterday without quickfixes. It was due to configuration problem that involved cache and databases prefixes. [e3c124f](https://github.com/Kagescan/kagescan-cms/commit/e3c124f)
+- Implemented three unit tests and improved the existing one. [1ddc36c](https://github.com/Kagescan/kagescan-cms/commit/1ddc36c)
+- Made some minor edits [f79c9d2](https://github.com/Kagescan/kagescan-cms/commit/f79c9d2)
+
+
+**Thoughts:** It is a public holiday today (1918 armistice). I took the opportunity to take a *vacation* during this *afternoon*, which is why there is not as much code as expected.
+
+
+
+
+![image](https://user-images.githubusercontent.com/28659185/141378809-dbe33c2e-a0fa-4942-a57b-e652ce1a1698.png)
+
+*day 8 :*
+Forgot to save the md file 🤦 providing an image instead.
+
+### Day 6-7 : Monday 08 and Tuesday 09, November 2021
   
 **Today's Progress**: 
 - Upgraded the framework from v4.1.3 to 4.1.5 [e47428c](https://github.com/Kagescan/kagescan-cms/commit/e47428c61dba42c36e3d13dec45670d0042ece15)
