@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12-13 (between 22:30 to 00:30) : Sunday 14 and 15, november 2021
+
+**Today's Progress**: 
+- Add some methods related to chapters. The SQL linkedList has been implemented (create + read + delete) [49af27a](https://github.com/Kagescan/kagescan-cms/commit/49af27a)
+- Add tests related to get or create chapters. [72d472a](https://github.com/Kagescan/kagescan-cms/commit/72d472a)
+
+**Thoughts:** : worked during night again due to being late.
+
+
+### Day 10-11 : Friday 12 and Saturday 13, november 2021
+
+**Today's Progress**: 
+- splitted a big file of tests in separate files using traits and require_once functions [f79c9d2...26fd50e](https://github.com/Kagescan/kagescan-cms/compare/f79c9d2c2b53...26fd50e9f7f0)
+
+**Thoughts:** : worked well but fogot to write the logs... I didn't worked in friday since it's difficult for me to get time at the evening.
+
 ### Day 9 : Thursday 11, november 2021
 
 **Today's Progress**: 
