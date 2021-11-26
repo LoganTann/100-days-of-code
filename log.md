@@ -1,12 +1,64 @@
 # 100 Days Of Code - Log
 
+### Day 22 : Friday 26, november 2021
+
+**Today's progress** : Created commands to manage mangas stored in db from the shell, without needing a front-end. I've implemented the command to create and check a serie's informations. Also added launch.json file.
+
+**Thoughts:** Today is black friday. I haven't bought anything, today was just work, as usual.
+
+### Day 21 : Thursday 25, november 2021
+
+**Today's progress** : Refactoring, again. Also added php-cs-fixer in the workspace so I can make my code conform for the PSR-12 specs.
+
+**Thoughts:** I think I'm okay with refactoring. The code don't haves a perfect architecture but is still okay.
+
+### Day 20 : Wednesday 24, november 2021
+
+**Today's progress** : Refactoring. Learned a bit about php namespaces (PSR-4) and how to properly implement php traits.
+
+**Thoughts:** So I think after finishing the ScanModel, I had to do some refactoring. Currently, idk if I should waste my time for a good architecture rather than working on a new feature ?
+
+### Day 19 : Tuesday 23, november 2021
+
+**Today's progress** : Create volumes implementation + getting chapters of serie with their volumes.
+
+**Thoughts:** The model is finished ! Also, I just had my first job interview for my internship at a SI service company. I think my pitch was good.
+
+### Day 18 : Sunday 21, november 2021
+
+**Today's progress** : major refactoring (get rid of dollar signs in db) and finished arrayList implementation
+
+**Thoughts:** Near the end of this model :eyes: I still have to create volumes and this will be done !
+
+### Day 17 : Saturday 20, november 2021
+
+**Today's progress** : Created tests to implement ArrayList ordering.
+
+### Day 16 : Thursday 18, november 2021
+
+**Today's progress** : Bugfixes and major refactoring
+
+**Thoughts:** Actually very busy...
+
+### Day 15 : Wednesday 17, november 2021
+
+**Today's progress** : Totally implemented LinkedList ordering
+
+**Thoughts:** wooow finished the most difficult I guess... (?)
+
+### Day 14 : Tuesday 16, november 2021
+
+**Today's progress** : improvements, created methods to get and change order of chapters of series
+
+**Thoughts:** Made major changes, but most things are unfinished. I'll finish this tomorrow.
+
 ### Day 12-13 (between 22:30 to 00:30) : Sunday 14 and 15, november 2021
 
 **Today's Progress**: 
 - Add some methods related to chapters. The SQL linkedList has been implemented (create + read + delete) [49af27a](https://github.com/Kagescan/kagescan-cms/commit/49af27a)
 - Add tests related to get or create chapters. [72d472a](https://github.com/Kagescan/kagescan-cms/commit/72d472a)
 
-**Thoughts:** : worked during night again due to being late.
+**Thoughts:** worked during night again due to being late.
 
 
 ### Day 10-11 : Friday 12 and Saturday 13, november 2021
@@ -14,7 +66,7 @@
 **Today's Progress**: 
 - splitted a big file of tests in separate files using traits and require_once functions [f79c9d2...26fd50e](https://github.com/Kagescan/kagescan-cms/compare/f79c9d2c2b53...26fd50e9f7f0)
 
-**Thoughts:** : worked well but fogot to write the logs... I didn't worked in friday since it's difficult for me to get time at the evening.
+**Thoughts:** worked well but fogot to write the logs... I didn't worked in friday since it's difficult for me to get time at the evening.
 
 ### Day 9 : Thursday 11, november 2021
 
